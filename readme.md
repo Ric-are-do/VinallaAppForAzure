@@ -8,3 +8,4 @@ This repo is used as a starter for a _very basic_ HTML web application using no 
 //new Entry 
 Added a webhook to this repository so that it trigges my azure function when I make a push 
 Secnd commit once app insights has been set up for the function 
+third
